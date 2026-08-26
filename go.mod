@@ -4,6 +4,10 @@ go 1.26.4
 
 require (
 	github.com/dromara/carbon/v2 v2.6.17
+	github.com/gin-gonic/gin v1.12.0
+	github.com/go-playground/locales v0.14.1
+	github.com/go-playground/universal-translator v0.18.1
+	github.com/go-playground/validator/v10 v10.30.1
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/spf13/viper v1.20.0
 	go.uber.org/zap v1.28.0
